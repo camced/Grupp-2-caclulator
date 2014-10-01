@@ -1,0 +1,2 @@
+#caclctest
+print calc
