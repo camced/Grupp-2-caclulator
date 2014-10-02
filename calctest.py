@@ -1,2 +1,0 @@
-#caclctest
-print calc
